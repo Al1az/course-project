@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<products>
+    <item>
+        <img>./imgs/Test.png</img>
+        <name>test1</name>
+        <grade>3</grade>
+        <date>2026-12-26</date>
+    </item>
+    <item>
+        <img>./imgs/Test.png</img>
+        <name>test2</name>
+        <grade>4</grade>
+        <date>2026-06-26</date>
+    </item>
+    <item>
+        <img>./imgs/Test.png</img>
+        <name>test3</name>
+        <grade>2</grade>
+        <date>2026-06-13</date>
+    </item>
+    <item>
+        <img>./imgs/Test.png</img>
+        <name>test4</name>
+        <grade>5</grade>
+        <date>2025-07-01</date>
+    </item>
+</products>
